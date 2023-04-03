@@ -1,0 +1,7 @@
+{
+  "name": "ColorSchemeTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
